@@ -16,8 +16,8 @@ impl Manual {
     fn show_help() {
         println!("\nWelcome to passive v1.0.0");
         println!("\nOPTIONS:");
-        println!("    -fn         Search with full-name");
-        println!("    -ip         Search with ip address");
-        println!("    -u          Search with username\n");
+        println!("    -fn\tSearch with full-name");
+        println!("    -ip\tSearch with ip address");
+        println!("    -u\tSearch with username\n");
     }
 }

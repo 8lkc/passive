@@ -9,5 +9,5 @@
 > Command to build the source code 👇🏿
 
 ```bash
-cargo build --release && cp target/release/passive ./passive
+make
 ```
